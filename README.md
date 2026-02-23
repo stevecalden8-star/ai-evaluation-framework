@@ -1,3 +1,4 @@
+![CI](https://github.com/stevecalden8-star/ai-evaluation-framework/actions/workflows/python-tests.yml/badge.svg)
 # AI Evaluation Framework
 
 A production-style evaluation framework demonstrating:
@@ -53,5 +54,6 @@ docker run ai-eval
 ---
 
 ## Purpose
+
 
 Designed to simulate AI model evaluation workflows with realistic edge-case testing and structured validation.
